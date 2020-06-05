@@ -1,3 +1,12 @@
+# Cellular-automata Project
+
+This project was to use cellular automata to simulate the affects of fire spread through different mediums. To load the project: 
+1. File -> Open. This will open in the folder `./ca_descriptions`.
+2. Open one of the example files;
+  - `wildfire.py` 
+3. Run the CA by clicking the bottom left button 'Apply configuration & run CA'
+
+
 # CAPyLE
 CAPyLE is a cross-platform teaching tool designed and built as part of a final year computer science project. It aims to aid the teaching of cellular automata and how they can be used to model natural systems.
 
