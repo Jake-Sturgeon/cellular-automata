@@ -2,8 +2,7 @@
 
 This project was to use cellular automata to simulate the affects of fire spread through different mediums. To load the project: 
 1. File -> Open. This will open in the folder `./ca_descriptions`.
-2. Open one of the example files;
-  - `wildfire.py` 
+2. Open the file `wildfire.py` 
 3. Run the CA by clicking the bottom left button 'Apply configuration & run CA'
 
 
